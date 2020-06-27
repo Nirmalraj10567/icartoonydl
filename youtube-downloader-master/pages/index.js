@@ -2,7 +2,7 @@ import { useRef } from "react";
 import Head from "next/head";
 import SocialMeta from "../components/socialMeta";
 
-const BASE_URL = "https://yt-dw-api.herokuapp.com";
+const BASE_URL = "https://icartoonsapi.herokuapp.com";
 
 function Home() {
   const input = useRef();
